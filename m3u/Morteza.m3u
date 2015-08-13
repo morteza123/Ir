@@ -1178,68 +1178,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 06-07-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-07-2015--[/COLOR]  
-
-#EXTINF:-1,[COLOR yellow]--- HD CHANNELS ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF: -1, ANTENA 3 HD (FULL HD)
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF: -1, LaSexta HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:0, Discovery ?????? HD Russia
-http://78.30.254.27:8989/udp/239.0.0.119:4000
-
-#EXTINF:0, Animal Planet HD Russia
-http://78.30.254.27:8989/udp/239.0.0.129:4000
-
-#EXTINF:0, History ?????? HD Russia
-http://78.30.254.27:8989/udp/239.0.0.246:5000
-
-#EXTINF:0, History ?????? HD Russia
-http://78.30.254.27:8989/udp/239.0.0.246:4000
-
-#EXTINF:0, TLC ?????? HD Russia
-http://78.30.254.27:8989/udp/239.0.0.247:4000
-
-#EXTINF:0, Travel Channel HD Russia
-http://78.30.254.27:8989/udp/239.0.0.248:4000
-
-#EXTINF:0, Eurosport HD Russia
-http://78.30.254.27:8989/udp/239.0.0.195:4000
-
-#EXTINF:0, MTV Live HD Russia
-http://78.30.254.27:8989/udp/239.0.0.196:4000
-
-#EXTINF:0, MTV Rocks Russia
-http://78.30.254.27:8989/udp/239.0.0.143:4000
-
-#EXTINF:0, MTV Hits Russia
-http://78.30.254.27:8989/udp/239.0.0.205:4000
-
-#EXTINF:0, Discovery World Russia
-http://78.30.254.27:8989/udp/239.0.0.47:4000
-
-#EXTINF:0, CBS Reality Russia
-http://78.30.254.27:8989/udp/239.0.0.91:4000
-
-#EXTINF:0, MGM HD Russia
-http://78.30.254.27:8989/udp/239.0.0.104:4000
-
-#EXTINF:0, Nickelodeon HD Russia
-http://78.30.254.27:8989/udp/239.0.0.128:4000
-
-#EXTINF:0, ???????? 1 Russia
-http://78.30.254.27:8989/udp/239.0.0.202:4000
-
-#EXTINF:0, ???????? 2 Russia
-http://78.30.254.27:8989/udp/239.0.0.203:4000
-
-
 #EXTINF:0,RT Documentary HD
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
 
