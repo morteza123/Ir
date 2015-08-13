@@ -16,37 +16,21 @@ http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 #EXTINF:-1,Irib 3 HD
 http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 
-
-
 #EXTINF:-1, PMC
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
-
 
 #EXTINF:-1, RMC
 rtmp://fms.105.net/live/rmc1
 
-
 #EXTINF:-1, MTC TV
 rtmp://mellitv.tulix.tv/mellitv/myStream.sdp#EXTINF:Anis-Sat, Med Muzikrtmp://178.33.61.33:1936/medmuzik//muzikakurdi
-
-IMPORTANT NOTE:
-
-All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine!
-
-I recently discovered that a certain member copied all lists created by me, and himself created a XBMC/KODI service and provided to other members, and the worst, he has removed the credits (REDENEOBUX.COM) that was on top of the list. You must have a lot of knowledge and spend many hours to know where to get these new streams.
-
-I do this freely and do not charge anything, because I'm an honest person, but unfortunately there are bad people who take advantage of our generosity to be recognized, when in reality they just do copy/paste from other users.
-
-If this problem continues, I will stop providing lists and dedicate myself only to repositories and addons for XBMC and KODI.
-
-Therefore, if you are doing the same, please, at least put the credits (REDENEOBUX.COM).
 
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 06-08-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-08-2015--[/COLOR]
 
 
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kan�le ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
@@ -202,7 +186,7 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 #EXTINF:-1,TV Touring Schweinfurt De
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
 
-#EXTINF:-0,TV Touring W�rzburg De
+#EXTINF:-0,TV Touring Würzburg De
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
 
 #EXTINF:-1,Tva De
@@ -218,7 +202,7 @@ rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 rtmp://62.113.210.250/medienasa-live/rbw_high
 
 #EXTINF:-1 group-title="BUSSINESS",BUSINESS TV GERMANY
-mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃ‚
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃƒâ€š
 
 #EXTINF:-1 group-title="EUROPE",ALEX-BERLIN GERMANY
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8
@@ -250,10 +234,10 @@ rtsp://streamer1.streamhost.org:1935/salive/lctvde
 #EXTINF:-1 group-title="EUROPE",LT - TV Baden Wuerttemberg GERMANY
 rtmp://62.113.210.105/ltv-live/livestream
 
-#EXTINF:-1 group-title="EUROPE",M�nchen TV GERMANY
+#EXTINF:-1 group-title="EUROPE",München TV GERMANY
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 
-#EXTINF:-1 group-title="EUROPE",M�hlviertel TV AU GERMANY
+#EXTINF:-1 group-title="EUROPE",Mühlviertel TV AU GERMANY
 mms://wmsstream22.v4.mytv.ris.at/live/stream_149
 
 #EXTINF:-1 group-title="EUROPE",N24 GERMANY
@@ -310,11 +294,6 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1,Deutsche Welle (U.S.A)
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
-
-
-
-
-
 #EXTINF:-1,[COLOR yellow]--- Sports ----[/COLOR]
 http://0.0.0.0:1234
 
@@ -356,18 +335,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-
-IMPORTANT NOTE:
-
-All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine!
-
-I recently discovered that a certain member copied all lists created by me, and himself created a XBMC/KODI service and provided to other members, and the worst, he has removed the credits (REDENEOBUX.COM) that was on top of the list. You must have a lot of knowledge and spend many hours to know where to get these new streams.
-
-I do this freely and do not charge anything, because I'm an honest person, but unfortunately there are bad people who take advantage of our generosity to be recognized, when in reality they just do copy/paste from other users.
-
-If this problem continues, I will stop providing lists and dedicate myself only to repositories and addons for XBMC and KODI.
-
-Therefore, if you are doing the same, please, at least put the credits (REDENEOBUX.COM).
 
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 05-07-2015 ---[/B][/I][/COLOR]
@@ -570,19 +537,6 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/512.m3u8
 
 #EXTINF:-1 ,MNC Music
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/512.m3u8
-
-
-IMPORTANT NOTE:
-
-All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine!
-
-I recently discovered that a certain member copied all lists created by me, and himself created a XBMC/KODI service and provided to other members, and the worst, he has removed the credits (REDENEOBUX.COM) that was on top of the list. You must have a lot of knowledge and spend many hours to know where to get these new streams.
-
-I do this freely and do not charge anything, because I'm an honest person, but unfortunately there are bad people who take advantage of our generosity to be recognized, when in reality they just do copy/paste from other users.
-
-If this problem continues, I will stop providing lists and dedicate myself only to repositories and addons for XBMC and KODI.
-
-Therefore, if you are doing the same, please, at least put the credits (REDENEOBUX.COM).
 
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 05-07-2015 ---[/B][/I][/COLOR]
@@ -1224,20 +1178,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,Iqraatv
 http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
-
-IMPORTANT NOTE:
-
-All links that are in my channels list are not of my authorship, but the hours of research and organization of the lists, this merit is all mine!
-
-I recently discovered that a certain member copied all lists created by me, and himself created a XBMC/KODI service and provided to other members, and the worst, he has removed the credits (REDENEOBUX.COM) that was on top of the list. You must have a lot of knowledge and spend many hours to know where to get these new streams.
-
-I do this freely and do not charge anything, because I'm an honest person, but unfortunately there are bad people who take advantage of our generosity to be recognized, when in reality they just do copy/paste from other users.
-
-If this problem continues, I will stop providing lists and dedicate myself only to repositories and addons for XBMC and KODI.
-
-Therefore, if you are doing the same, please, at least put the credits (REDENEOBUX.COM).
-
-
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 06-07-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-07-2015--[/COLOR]  
@@ -1540,10 +1480,10 @@ rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
 #EXTINF:-1,Px Hits 1080P
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
  
-#EXTINF:-1,RT HD 720P (R�ssia)
+#EXTINF:-1,RT HD 720P (Rússia)
 http://odna.octoshape.net/f3f5m2v4/cds/ch6_720p/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="DMAX.png",RT Documentary HD 720P (R�ssia)
+#EXTINF:-1 tvg-logo="DMAX.png",RT Documentary HD 720P (Rússia)
 http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
  
 #EXTINF:-1,Sports Night HD 720P (German)
@@ -1596,5 +1536,3 @@ ffrt4 rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@
 ffrt4 rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
 #EXTINF:0,Sky Sports News SD
 ffrt4 rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-
-
