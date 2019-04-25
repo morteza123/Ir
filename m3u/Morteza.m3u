@@ -5,7 +5,7 @@ http://s1.live.cdn.tvnet.ir/live/IRIB-TV1/720_.m3u8
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV2/720_.m3u8
 
 #EXTINF:-1, IRIB TV 3 HD
-http://sa23.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist_w1187929583.m3u8
+http://live4.fam.ir/hls/IRIB-TV31_mid/playlist.m3u8
 
 #EXTINF:-1, IRIB TV 3 SD
 http://sa23.telewebion.com:1935/devices/_definst_/tv3-500k.stream/chunklist_w1187929583.m3u8
