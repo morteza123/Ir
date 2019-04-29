@@ -7,9 +7,8 @@ http://s1.live.cdn.tvnet.ir/live/IRIB-TV2/720_.m3u8
 #EXTINF:-1, IRIB TV 3 HD
 http://live4.fam.ir/hls/IRIB-TV31_mid/playlist.m3u8
 
-#EXTINF:-1, IRIB TV 3 SD
-http://184.104.200.39:7777/IRIBChannel3/IRIBChannel3_Low/12163556.ts?hlsid=HTTP_ID_19212362&starttime=20190410T200209.971131
-
+#EXTINF:-1, SHIJAM TV
+https://sa11.telewebion.com/devices/_definst_/shijam-500k.stream/media_w444655435_16860.ts?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjkvMjAxOSA3OjE6MCBQTSZoYXNoX3ZhbHVlPXc1KzdzSTV5a0k1SVZWc3FUTzdnTXc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA%3D%3D
 #EXTINF:-1, IRIB TV 3 
 http://sa23.telewebion.com:1935/devices/_definst_/tv3-300k.stream/chunklist_w1854624382.m3u8
 
