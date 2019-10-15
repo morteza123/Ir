@@ -13,6 +13,14 @@ https://sa11.telewebion.com/devices/_definst_/shijam-500k.stream/media_w44465543
 #EXTINF:-1, IRIB TV 3 
 https://stream.persianleague.com/live/tv3/chunks.m3u8
 
+#EXTINF:-1, IRIB TV 3 SD
+https://yjc.arvanlive.com/hls/tv3/tv3_480/index.m3u8
+
+
+#EXTINF:-1, IRIB TV 3 D
+https://yjc.arvanlive.com/hls/tv3/tv3_720/index.m3u8
+
+
 #EXTINF:-1, IRIB TV 5
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV5/720_.m3u8
 
