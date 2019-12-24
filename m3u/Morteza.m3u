@@ -20,7 +20,6 @@ https://yjc.arvanlive.com/hls/tv3/tv3_480/index.m3u8
 #EXTINF:-1, IRIB TV 3 D
 https://yjc.arvanlive.com/hls/tv3/tv3_720/index.m3u8
 
-
 #EXTINF:-1, IRIB TV 5
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV5/720_.m3u8
 
@@ -37,7 +36,7 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_750_343887.ts
 http://s1.live.cdn.tvnet.ir/live/TAMASHA-HD/20190111/720/part_15510.ts
 
 #EXTINF:-1, WWE 
-https://teleupmsl6.akamaized.net/hls/live/2004300/usahdmsl/usahd_2000/chunklist.m3u8
+http://cdnak22.cast4u.info/channels/2/10802-2293.ts
 
 #EXTINF:-1, AEW
 http://cdnak6.cast4u.info/channels/2/10802.m3u8
