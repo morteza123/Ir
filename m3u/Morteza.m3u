@@ -16,7 +16,6 @@ https://stream.persianleague.com/live/tv3/chunks.m3u8
 #EXTINF:-1, IRIB TV 3 SD
 https://yjc.arvanlive.com/hls/tv3/tv3_480/index.m3u8
 
-
 #EXTINF:-1, IRIB TV 3 D
 https://yjc.arvanlive.com/hls/tv3/tv3_720/index.m3u8
 
@@ -36,123 +35,7 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_750_343887.ts
 http://s1.live.cdn.tvnet.ir/live/TAMASHA-HD/20190111/720/part_15510.ts
 
 #EXTINF:-1, WWE 
-http://cdnak22.cast4u.info/channels/2/10802.m3u8
+http://cdnak20.cast4u.info/channels/2/10802.m3u8
 
 #EXTINF:-1, AEW
 http://cdnak6.cast4u.info/channels/2/10802.m3u8
-
-#EXTINF:-1, Vikings S04 E1
-https://cdn3.vidaneh.com/vidaneh/videos/20c97503a0d64eefb7064df1145a18a9_240/20c97503a0d64eefb7064df1145a18a9_720_720_replaced.m3u8
-
-#EXTINF:-1, Vikings S04 E2
-https://cdn3.vidaneh.com/vidaneh/videos/7b825c2ac6574b8aa67c469592672856_240/7b825c2ac6574b8aa67c469592672856_720_720_replaced.m3u8
-
-#EXTINF:-1, Money Heist E1
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E01/1080p.m3u8
-
-#EXTINF:-1, Money Heist E2
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E02/1080p.m3u8
-
-#EXTINF:-1, Money Heist E3
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E03/1080p.m3u8
-
-#EXTINF:-1, Money Heist E4
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E04/1080p.m3u8
-
-#EXTINF:-1, Money Heist E5
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E05/1080p.m3u8
-
-#EXTINF:-1, Money Heist E6
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E06/1080p.m3u8
-
-#EXTINF:-1, Money Heist E7
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E07/1080p.m3u8
-
-#EXTINF:-1, Money Heist E8
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E08/1080p.m3u8
-
-#EXTINF:-1, Money Heist E9
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E09/1080p.m3u8
-
-#EXTINF:-1, Money Heist E10
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E10/1080p.m3u8
-
-#EXTINF:-1, Money Heist E11
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E11/1080p.m3u8
-
-#EXTINF:-1, Money Heist E12
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E12/1080p.m3u8
-
-#EXTINF:-1, Money Heist E13
-https://online.uptvs.com/stream/serial/Money%20Heist/S1/Money%20Heist%20S01%20E13/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E1
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E01/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E2
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E02/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E3
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E03/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E4
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E04/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E5
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E05/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E6
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E06/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E7
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E07/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E8
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E08/1080p.m3u8
-
-#EXTINF:-1, Money Heist S2 E9
-https://online.uptvs.com/stream/serial/Money%20Heist/S2/Money%20Heist%20S02%20E09/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E1
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E01/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E2
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E02/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E3
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E03/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E4
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E04/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E5
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E05/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E6
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E06/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E7
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E07/1080p.m3u8
-
-#EXTINF:-1, Money Heist S3 E8
-https://online.uptvs.com/stream/serial/Money%20Heist/S3/Money%20Heist%20S03%20E08/1080p.m3u8
-
-#EXTINF:-1, AEW 1
-https://proxy-028.dc3.dailymotion.com/sec(saQeXx3qXZg3T3rkC8HACP8gdOzbiWGhjXYyooIoJ2Bn2ywbPxA4k0LV84QCrX1Ne6X5m3KEyMLoP6184VlXkSpw_R0D7Xol1pzXFzN6p5o)/video/481/529/464925184_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, AEW 2
-https://proxy-040.ix7.dailymotion.com/sec(-kHz2yg5cxxA1BkCmIG5lUAlsecYyxGIETpAAbVeVRT1erC0zEcb0cjH2FEq7Xm1RMCaB9cFDeie_g9fwNUzSsIDUke2C9hjYwxQRdUmVzY)/video/044/529/464925440_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE 1
-https://proxy-040.dc3.dailymotion.com/sec(iAXo1UrOAO1i5LjM3lZ0hrmApu7BW3IhdnIdS3FWD2DMqqIis1WK5kn1Qk-stX5tWwzjAD4r_ITzvhqbHKawqbo37B1gPH8gA-8g-quREqM)/video/351/312/465213153_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE 2
-https://proxy-014.dc3.dailymotion.com/sec(QRmsThsc0NdxOo1LPpbD1xPTzBY7AG9mKkqRu5pMHivNxifFPKX0_-R9_Qz635fBTL__hkagn98TmnMBMurcTz9gmSS0Goa8w7jX_pW1Kwo)/video/112/412/465214211_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE 3
-https://proxy-026.dc3.dailymotion.com/sec(LL70bUvxgBlOH8BfPRBrX9vlUKn7bwM7aypqFwtw2k6-YQ021abbOwHeRCHxKImW8ebrqMZ0YjCB11kNEwIDxrvKvW2M8XailRruXNI1__w)/video/212/412/465214212_mp4_h264_aac_hd.m3u8
-#EXTINF:-1, See
-https://online.uptvs.com/stream/serial/See/S1/See.S01.E01.Farsi_UPTV.co/720p.m3u8
-
-#EXTINF:-1, AEW
-http://cdnak8.cast4u.info/channels/2/10802.m3u8
