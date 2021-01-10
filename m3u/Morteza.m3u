@@ -12,6 +12,7 @@ http://s1.live.cdn.tvnet.ir/live/IRIB-TV5/720_.m3u8
 
 #EXTINF:-1, IRIB TV VARZESH
 https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMTAvMjAyMSAxMjo1MjoyMiBQTSZoYXNoX3ZhbHVlPXJxTnA4NUZZeXROM3VCMndGOEVFaUE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==&origin=slde2.telewebion.com
+
 #EXTINF:-1, IRIB TV NASIM
 http://s1.live.cdn.tvnet.ir/live/NASIM/720_.m3u8
 
