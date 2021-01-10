@@ -1,32 +1,8 @@
 #EXTINF:-1, IRIB TV 1
-http://s1.live.cdn.tvnet.ir/live/IRIB-TV1/720_.m3u8
+https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8
 
 #EXTINF:-1, IRIB TV 3 
 https://nrpus.bozztv.com/36bay2/gin/irib3-in/video.m3u8
 
-#EXTINF:-1, IRIB TV 3 HD
-https://sdm.telewebion.com/devices/_definst_/tv3-500k.stream/tv3-1080p/index.m3u8
-
-#EXTINF:-1, IRIB TV 5
-http://s1.live.cdn.tvnet.ir/live/IRIB-TV5/720_.m3u8
-
 #EXTINF:-1, IRIB TV VARZESH
 https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8
-
-#EXTINF:-1, IRIB TV NASIM
-http://s1.live.cdn.tvnet.ir/live/NASIM/720_.m3u8
-
-#EXTINF:-1, MANOTO TV
-https://d6kn5bcgzkd2t.cloudfront.net/live_750_343887.ts
-
-#EXTINF:-1, TAMASHA HD
-http://s1.live.cdn.tvnet.ir/live/TAMASHA-HD/20190111/720/part_15510.ts
-
-#EXTINF:-1, WWE 
-http://cdnak20.cast4u.info/channels/2/10802.m3u8
-
-#EXTINF:-1, AEW
-http://cdnak6.cast4u.info/channels/2/10802.m3u8
-
-#EXTINF:-1, TV 3 
-https://usb1.ninacdn.com/ssh101/Footi2020/Footi2020/chunklist_w1360310625.m3u8
