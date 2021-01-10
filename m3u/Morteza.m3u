@@ -5,26 +5,13 @@ http://s1.live.cdn.tvnet.ir/live/IRIB-TV1/720_.m3u8
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV2/720_.m3u8
 
 #EXTINF:-1, IRIB TV 3 HD
-http://live4.fam.ir/hls/IRIB-TV31_mid/playlist.m3u8
-
-#EXTINF:-1, SHIJAM TV
-https://sa11.telewebion.com/devices/_definst_/shijam-500k.stream/media_w444655435_16860.ts?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTQvMjkvMjAxOSA3OjE6MCBQTSZoYXNoX3ZhbHVlPXc1KzdzSTV5a0k1SVZWc3FUTzdnTXc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA%3D%3D
-
-#EXTINF:-1, IRIB TV 3 
-https://stream.persianleague.com/live/tv3/chunks.m3u8
-
-#EXTINF:-1, IRIB TV 3 SD
-https://yjc.arvanlive.com/hls/tv3/tv3_480/index.m3u8
-
-#EXTINF:-1, IRIB TV 3 D
-https://yjc.arvanlive.com/hls/tv3/tv3_720/index.m3u8
+https://sdm.telewebion.com/devices/_definst_/tv3-500k.stream/tv3-1080p/index.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMTAvMjAyMSAxMjo0OTo0MiBQTSZoYXNoX3ZhbHVlPVRlSndtTWUzc1IrWWxwU0pLcGtvYXc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==&origin=sl18.telewebion.com
 
 #EXTINF:-1, IRIB TV 5
 http://s1.live.cdn.tvnet.ir/live/IRIB-TV5/720_.m3u8
 
 #EXTINF:-1, IRIB TV VARZESH
-http://s1.live.cdn.tvnet.ir/live/VARZESH/720_.m3u8
-
+https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTEvMTAvMjAyMSAxMjo1MjoyMiBQTSZoYXNoX3ZhbHVlPXJxTnA4NUZZeXROM3VCMndGOEVFaUE9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==&origin=slde2.telewebion.com
 #EXTINF:-1, IRIB TV NASIM
 http://s1.live.cdn.tvnet.ir/live/NASIM/720_.m3u8
 
