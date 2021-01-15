@@ -1,8 +1,20 @@
 #EXTINF:-1, IRIB TV 1
 https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8
 
+#EXTINF:-1, IRIB TV 2
+https://sdw.telewebion.com/live/tv2/tv2_dvr-576p/index.m3u8
+
 #EXTINF:-1, IRIB TV 3 
 https://nrpus.bozztv.com/36bay2/gin/irib3-in/video.m3u8
 
+#EXTINF:-1, IRIB TV 3 HD
+https://sdw.telewebion.com/live/tv3/tv3_dvr-1080p/index.m3u8
+
 #EXTINF:-1, IRIB TV VARZESH
-https://sdw.telewebion.com/devices/_definst_/varzesh-500k.stream/varzesh-1080p/index.m3u8
+https://sdw.telewebion.com/live/varzesh/varzesh_dvr-1080p/index.m3u8
+
+#EXTINF:-1, ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/0f8cd85d141c27ece11d2287d7a07bbf/4/4.m3u8
+
+#EXTINF:-1, ARD HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
