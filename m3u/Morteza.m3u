@@ -18,3 +18,6 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498-b/de/0f8cd85d141c27ece11d2287d
 
 #EXTINF:-1, ARD HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+
+#EXTINF:-1, SKY BUNDESLIGA 2
+https://e1.stephn.xyz/ingest08/27351.m3u8
